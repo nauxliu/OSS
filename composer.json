@@ -1,5 +1,6 @@
 {
-    "name": "xuan/oss",
+    "name": "naux/oss",
+    "description": "Aliyun OSS SDK for Composer.",
     "authors": [
         {
             "name": "NauxLiu",
