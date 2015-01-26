@@ -1,0 +1,15 @@
+{
+    "name": "xuan/oss",
+    "authors": [
+        {
+            "name": "NauxLiu",
+            "email": "nauxliu@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzle/plugin": "~3.9"
+    },
+    "autoload": {
+        "psr-4": {"Aliyun\\": "Aliyun/"}
+    }
+}
